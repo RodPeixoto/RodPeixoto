@@ -6,7 +6,7 @@
 
 <h1>🤘 Desenvolvedor 👽 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/RodPeixoto.https://github.com/RodPeixoto)
+
 
 </p>
 <div size='20px'>Olá, sou o Rodrigo Peixoto.  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
