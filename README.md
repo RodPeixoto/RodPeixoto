@@ -4,7 +4,7 @@
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
-<h1> Desenvolvedor 🤘
+<h1> 🤘 Desenvolvedor 🤘
 
 
 
@@ -18,11 +18,11 @@
 
 
 
-- Você está no meu porão. Seja bem-vindo!
+- Você está no meu porão. Seja bem-vindo! 🐱‍💻
 
-- Atuamente estou cursando Sistemas de Informação e trabalhando em meu blog {volvera}. 
+- Atuamente estou cursando Sistemas de Informação e trabalhando em meu blog {volvera}.  ✨
 
-- Meu objetivo é me aprofundar na linguagem C sharp e me interesso por tecnologia blockchain.
+- Meu objetivo é me aprofundar na linguagem C sharp e me interesso por tecnologia blockchain. 🤯
 
   
 
