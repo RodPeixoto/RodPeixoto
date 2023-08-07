@@ -35,4 +35,4 @@
 
 
 
-<footer > <img src="https://github.com/RodPeixoto/RodPeixoto/blob/main/giphy.gif" width= 200px  />  </footer>
+<footer >  <img src="https://github.com/RodPeixoto/RodPeixoto/blob/main/giphy.gif" width= 200px align="center" />  </footer>
