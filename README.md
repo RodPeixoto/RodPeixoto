@@ -2,12 +2,13 @@
 
 
 
-<h1> 🤘 Desenvolvedor 🤘
-
-
+<h1> 
+  🤘 Desenvolvedor 🤘 
 
 </p>
-<div size='20px'>Olá, sou o Rodrigo Peixoto.  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<div size='20px'>Olá, sou o Rodrigo Peixoto.  <img src="https://github.com/RodPeixoto/RodPeixoto/blob/main/giphy.gif" width= 200px  /> 
+
+</h1>
 <p align='center'>
 </div>
 
@@ -35,4 +36,4 @@
 
 
 
-<footer > <img src="https://github.com/RodPeixoto/RodPeixoto/blob/main/giphy.gif" /></footer>
+<footer >  </footer>
